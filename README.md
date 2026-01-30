@@ -16,7 +16,11 @@
 - HTML, CSS, JavaScript  
 - Java (Basics)  
 - PHP (Basics)  
-- Git & GitHub  
+- Git & GitHub
+- python
+- C/C++
+- MySQL
+- Blender (Modeling, Animation) 
 
 ---
 
