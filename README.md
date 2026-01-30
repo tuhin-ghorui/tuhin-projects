@@ -1,40 +1,25 @@
-👋 Hi, I'm Tuhin Ghorui
+# 👋 Hi, I'm Tuhin Ghorui  
 
-🎓 BCA Student | 💻 Web Developer | 🤖 AI & Robotics Enthusiast
-📍 India | 🚀 Building skills one project at a time
+🎓 BCA Student | 💻 Web Developer | 🤖 AI Enthusiast  
 
-🧠 About Me
+---
 
-I’m a 2nd-year BCA student passionate about technology, especially Web Development, Artificial Intelligence, and Robotics.
-I love learning by building real project. 
+## 🚀 About Me
+- 👨‍🎓 2nd year BCA student  
+- 🌱 Currently learning **Web Development**
+- 🧠 Interested in **Artificial Intelligence, Robotics & Full-Stack Development**
+- 🎯 Goal: Become an AI Engineer in the next 2–3 years
 
-🌱 Currently learning JavaScript, PHP & AI fundamentals
+---
 
-🧩 Enjoy solving problems & building systems
-
-📈 Strong believer in consistency over motivation
-
-🛠️ Tech Stack
-
-Frontend
-
-HTML5 | CSS3 | JavaScript
-
-Backend (Basics)
-
-PHP | MySQL
-
-Programming
-
-Java (Basics)
-C/C++
-python
-
-Tools
-
-Git & GitHub
-
-VS Code
+## 🛠️ Skills
+- HTML, CSS, JavaScript  
+- Java (Basics)
+- C/C++
+- python  
+- PHP (Basics)
+- MySQL 
+- Git & GitHub  
 
 ---
 
