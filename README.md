@@ -14,7 +14,6 @@ I am a BCA student from India focused on becoming an **AI Engineer** and buildin
 - ⚡ I prefer **learning by building**, not just watching tutorials
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuhin-ghorui&show_icons=true)
 
 ## 🛠️ Tech Stack
 
