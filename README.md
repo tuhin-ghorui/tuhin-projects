@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tuhin Ghorui
 
-🚀 BCA Student | 🤖 Aspiring AI Engineer | 💡 Building Real-World Intelligent Systems
+🚀 BCA Student | 🤖 Aspiring AI Engineer | 📱 Building AI & Real-World Products
 
 ---
 
@@ -8,7 +8,7 @@
 
 I am a BCA student from India focused on becoming an **AI Engineer** and building impactful real-world applications.
 
-- 🔭 Currently building **AI-powered and full-stack projects**
+- 🔭 Currently building AI-powered, mobile, and full-stack projects
 - 🧠 Learning **Computer Vision, JavaScript, and backend systems**
 - 🎯 Goal: Land a **high-paying AI/Software role in 2–3 years**
 - ⚡ I prefer **learning by building**, not just watching tutorials
@@ -26,6 +26,19 @@ I am a BCA student from India focused on becoming an **AI Engineer** and buildin
 ---
 
 ## 🚀 Featured Projects
+
+### ⚔️ EvoUp – Gamified Self-Improvement Mobile App
+
+A premium mobile app that turns self-growth into an RPG progression system where users complete missions, gain XP, level up, build streaks, and unlock achievements.
+
+* 🔹 Built with **Expo + React Native + TypeScript**
+* 🔹 Features **daily missions, XP system, streaks, achievements, onboarding**
+* 🔹 Designed with a premium dark UI and real product mindset
+* 🔹 Demonstrates **mobile development + product engineering skills**
+
+👉 [GitHub Repo](https://github.com/tuhin-ghorui/evoup-app)
+
+---
 
 ### 💪 AI Push-Up Counter (Browser-Based)
 A real-time AI fitness tracker that counts push-ups using webcam-based pose detection.
